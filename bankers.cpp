@@ -5,8 +5,6 @@
 
 #include <iostream>
 #include <fstream>
-#include <string>
-#include <sstream>
 
 // number of processes in a system
 // P0, P1, P2, P3, P4
