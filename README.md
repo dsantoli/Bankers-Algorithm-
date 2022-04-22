@@ -6,10 +6,7 @@ https://images.app.goo.gl/hKLiVs317ZyAAGcMA
 Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?
 
 # My implementation:
--C++
--one cpp file
--one .txt file
--The cpp file reads from the .txt file. The .txt file has 3 sets of digits seperated by ';'. The first set is the number of resources of each type currently allocated to each process(allocation), second is maximum demand of each process in a system(max), third is the number of available resources of each type(avaliable).
+Done in C++, one cpp file, one .txt file. The cpp file reads from the .txt file. The .txt file has 3 sets of digits seperated by ';'. The first set is the number of resources of each type currently allocated to each process(allocation), second is maximum demand of each process in a system(max), third is the number of available resources of each type(avaliable).
 
 # How to compile and Execute:
 Compile: 
